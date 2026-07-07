@@ -1,8 +1,7 @@
 # -PMO-Project-Performance-Dashboad 
-# PMO Project Performance Dashboard
 
 ![Dashboard](Images/IMG_4102.jpeg)
-https://github.com/YogitaYTY/-PMO-Project-Performance-Dashboard/blob/main/Images/IMG_4102.jpeg
+
 Power BI PMO analytics project featuring project governance, KPI reporting, budget tracking, schedule performance, resource utilization, and risk analysis dashboards.
 PMO Project Performance Dashboard
 
